@@ -32,7 +32,9 @@ Electronics, Information & Communication Engineering Student
 
 ### 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,proteus,kicad,ltspice" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,ltspice" />
+  <img src="https://your-image-link.com/kicad.png" width="40" />
+  <img src="https://your-image-link.com/proteus.png" width="40" />
 </p>
 
 ---
