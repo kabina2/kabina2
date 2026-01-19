@@ -35,11 +35,6 @@ Electronics, Information & Communication Engineering Student
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,arduino,git,github,linux" />
 </p>
 
-### 🌐 Web & Data (Supporting Skills)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
 ---
 
 ## 📂 Featured Projects
@@ -92,4 +87,3 @@ Electronics, Information & Communication Engineering Student
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
-what
